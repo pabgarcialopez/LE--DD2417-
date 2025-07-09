@@ -1,0 +1,1 @@
+{"training_set": "/datasets/dd2417/eng-swe-train.txt", "test_set": "/datasets/dd2417/eng-swe-test.txt", "epochs": 50, "learning_rate": 0.001, "batch_size": 64, "hidden_size": 25, "attention": true, "bidirectional": true, "embedding_size": 50, "use_gru": true, "tune_embeddings": true}
