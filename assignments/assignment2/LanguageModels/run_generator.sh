@@ -1,0 +1,1 @@
+python3 Generator.py -f ./kafka_model.txt -s bed -n 150

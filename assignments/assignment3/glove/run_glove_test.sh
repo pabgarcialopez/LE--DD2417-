@@ -1,0 +1,1 @@
+python GloveTester.py -f ./vectors.txt
